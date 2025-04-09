@@ -1,9 +1,7 @@
 Installation
 ============
 
-.. todo: #HR: was ist neu außer 7.3 Kompaitbilität?
-
-:productname:`OXID Cookie Management powered by usercentrics` 3.1 wird standardmäßig mit OXID eShop Compilation 7.3 ausgeliefert und unterstützt nur Twig.
+:productname:`OXID Cookie Management powered by usercentrics` 3.1 unterstützt PHP 8.4 und wird standardmäßig mit OXID eShop Compilation 7.3 ausgeliefert. :productname:`OXID Cookie Management powered by usercentrics` 3.1 unterstützt nur Twig.
 
 Bei einer normalen Installation müssen Sie das Modul also nicht installieren, sondern können direkt mit dem Konfigurieren loslegen.
 
