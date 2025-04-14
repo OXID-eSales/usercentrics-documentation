@@ -133,13 +133,13 @@ html_theme_path = ['_themes']
 
 html_context = {
     'current_version': '3.1',
-    'versions':
-         [('1.1', 'https://docs.oxid-esales.com/modules/usercentrics/de/1.1/'),
+    'versions': [
+          ('1.1', 'https://docs.oxid-esales.com/modules/usercentrics/de/1.1/'),
           ('1.2', 'https://docs.oxid-esales.com/modules/usercentrics/de/1.2/'),
           ('2.0', 'https://docs.oxid-esales.com/modules/usercentrics/de/2.0/'),
           ('3.0', 'https://docs.oxid-esales.com/modules/usercentrics/de/3.0/'),
-          ('3.1', 'https://docs.oxid-esales.com/modules/usercentrics/de/3.1/'),
-          ],
+          ('3.1', 'https://docs.oxid-esales.com/modules/usercentrics/de/3.1/')
+      ],
 #   'languages':
 #         [('DE', 'https://docs.oxid-esales.com/modules/usercentrics/de/3.1/'),
 #          ('EN', 'https://docs.oxid-esales.com/modules/usercentrics/en/3.1/')],
