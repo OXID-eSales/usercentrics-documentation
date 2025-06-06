@@ -27,8 +27,6 @@ Sie haben OXID eShop Version 7.3.
    b. Wählen Sie das Modul.
    c. Wählen Sie auf der Registerkarte :guilabel:`Stamm` des Moduls die Schaltfläche :guilabel:`Aktivieren`.
 
-3. Um temporäre Dateien zu löschen, löschen Sie aus dem Verzeichnis :file:`/tmp` des Shops alle Dateien und Ordner außer der Datei :file:`.htaccess`.
-
 .. todo:: Hinweis auf oe-console, module activation und clear cache
 
 .. Intern: oxdajl, Status:
