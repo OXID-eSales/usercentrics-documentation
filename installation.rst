@@ -27,6 +27,6 @@ Sie haben OXID eShop Version 7.4.
    b. Wählen Sie das Modul.
    c. Wählen Sie auf der Registerkarte :guilabel:`Stamm` des Moduls die Schaltfläche :guilabel:`Aktivieren`.
 
-.. todo:: Hinweis auf oe-console, module activation und clear cache
+.. todo:: #tbd: Hinweis auf oe-console, module activation und clear cache
 
 .. Intern: oxdajl, Status:
