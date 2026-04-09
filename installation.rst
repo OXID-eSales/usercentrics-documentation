@@ -1,7 +1,7 @@
 Installation
 ============
 
-:productname:`OXID Cookie Management powered by usercentrics` 3.2 wird standardmäßig mit OXID eShop Compilation 7.4 ausgeliefert.
+:productname:`OXID Cookie Management powered by usercentrics` 3.3 wird standardmäßig mit OXID eShop Compilation 7.5 ausgeliefert.
 
 Bei einer normalen Installation müssen Sie das Modul also nicht installieren, sondern können direkt mit dem Konfigurieren loslegen.
 
@@ -9,7 +9,7 @@ Abhängig von Ihrer Installation des OXID eShops können Sie das Modul jedoch be
 
 |prerequisites|
 
-Sie haben OXID eShop Version 7.4.
+Sie haben OXID eShop Version 7.5.
 
 |procedure|
 
