@@ -23,12 +23,12 @@ Ein benutzerdefinierter Dienst erfordert eine Datei :file:`usercentrics.yaml`, w
 ``services`` 
   nimmt den Namem des benutzerdefinierten Dienstes auf, wie er im UserCentrics Admin Interface definiert werden muss. 
 
-``scriptSnippets`` 
+``scriptSnippets``
   ist für die Verwendung von add-Kommandos. Beispiel:
 
-.. code:: javascript
+.. code:: twig
 
-   [{oxscript add="alert('This is a custom javascript service.')" }]
+   {{ script({ add: "alert('This is a custom javascript service.')"}) }}
 
 Um den Hash für ein Snippet zu erhalten, fügen Sie das Snippet einer Seite des Shops hinzu und rufen Sie diese im Browser auf. Über die Tools für Web-Entwickler können Sie jetzt auf den Wert des data-oxid-Attributs zugreifen.
 
@@ -37,12 +37,12 @@ Um den Hash für ein Snippet zu erhalten, fügen Sie das Snippet einer Seite des
    :height: 484
    :width: 650
 
-``scripts`` 
-  wird für das Einbinden von JavaScript-Dateien verwendet. Beispiel: 
+``scripts``
+  wird für das Einbinden von JavaScript-Dateien verwendet. Beispiel:
 
-.. code:: javascript
+.. code:: twig
 
-  [{oxscript include="js/libs/test.js"}]
+  {{ script({ include: "js/libs/test.js" }) }}
 
 ---------------------------------------------------------------------------------------------------
 
