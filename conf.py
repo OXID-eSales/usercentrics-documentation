@@ -140,6 +140,7 @@ html_context = {
           ('3.0', 'https://docs.oxid-esales.com/modules/usercentrics/de/3.0/'),
           ('3.1', 'https://docs.oxid-esales.com/modules/usercentrics/de/3.1/'),
           ('3.2', 'https://docs.oxid-esales.com/modules/usercentrics/de/3.2/'),
+          ('3.3', 'https://docs.oxid-esales.com/modules/usercentrics/de/3.3/'),
       ],
 #   'languages':
 #         [('DE', 'https://docs.oxid-esales.com/modules/usercentrics/de/1.2/'),
