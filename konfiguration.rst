@@ -10,7 +10,6 @@ Gehen Sie dafür im Administrationsbereich zu :menuselection:`Erweiterungen --> 
 
 .. image:: media/screenshots/oxdajm01.png
    :alt: OXID Cookie Management, Registerkarte Einstell.
-   :height: 339
    :width: 650
 
 Usercentrics Integration
